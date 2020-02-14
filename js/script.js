@@ -31,4 +31,7 @@ $(function() {
 })
 /* /animation on scroll widget */
 
-document.write('<link href="./css/hover-min.css" rel="stylesheet">');
+////////////////////////////////////
+// animate.js
+document.write('<link href="./css/animate.min.css" rel="stylesheet">');
+////////////////////////////////////
